@@ -32,7 +32,7 @@ This design is in progress with several new features still being designed and op
 
 ## Good Girl: 1999-2019
 
-1999: Taking inspiration from the hand lettering I loved in vintage publications, I threw down a quick font using Chank Diesel’s "One Hour Font" article, published in 1998. My font, **Good Girl**, had a bouncy baseline, lots of individual quirky letters, and the only featured capitals and figures, and minimal punctuation. Like Chank, I put it out online for free, with a small license file that said “This font has no license.”
+1999: Taking inspiration from the hand lettering I loved in vintage publications, I threw down a quick font using Chank Diesel’s "One Hour Font" article, published in 1998. My font, **Good Girl**, had a bouncy baseline, lots of individual quirky letters, and only had capitals and numerals, plus minimal punctuation. Like Chank, I put it out online for free, with a small license file that said “This font has no license.”
 
 1999-2019: **Good Girl** has had a life of her own. The font, even though it lacks many important glyphs, has persisted as a popular free download for twenty years. I am constantly “font sighting” - finding **Good Girl** in surprising and creative applications, on packaging, in motion graphics, even in homemade zines. Recently I've seen **Good Girl** on tuna cans and hamburger bun packaging at Trader Joe’s. Blockbuster Video (RIP), Frito-Lay, Nintendo, Netflix, and more have used **Good Girl** over the years.
 
